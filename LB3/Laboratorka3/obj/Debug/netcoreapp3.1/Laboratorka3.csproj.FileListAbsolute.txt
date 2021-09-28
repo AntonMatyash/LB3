@@ -1,0 +1,13 @@
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\bin\Debug\netcoreapp3.1\Laboratorka3.exe
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\bin\Debug\netcoreapp3.1\Laboratorka3.deps.json
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\bin\Debug\netcoreapp3.1\Laboratorka3.runtimeconfig.json
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\bin\Debug\netcoreapp3.1\Laboratorka3.runtimeconfig.dev.json
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\bin\Debug\netcoreapp3.1\Laboratorka3.dll
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\bin\Debug\netcoreapp3.1\Laboratorka3.pdb
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\obj\Debug\netcoreapp3.1\Laboratorka3.csprojAssemblyReference.cache
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\obj\Debug\netcoreapp3.1\Laboratorka3.AssemblyInfoInputs.cache
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\obj\Debug\netcoreapp3.1\Laboratorka3.AssemblyInfo.cs
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\obj\Debug\netcoreapp3.1\Laboratorka3.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\obj\Debug\netcoreapp3.1\Laboratorka3.dll
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\obj\Debug\netcoreapp3.1\Laboratorka3.pdb
+C:\Users\ANTON\Downloads\laboratorka3-master\Laboratorka3\Laboratorka3\obj\Debug\netcoreapp3.1\Laboratorka3.genruntimeconfig.cache
